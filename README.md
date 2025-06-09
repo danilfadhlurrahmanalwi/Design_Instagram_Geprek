@@ -9,4 +9,4 @@ I developed a food business specializing in selling ayam geprek (smashed crispy 
 This business has been running for two years. Initially, we sold only 32 pieces of chicken per day, and now we have grown to approximately 100 pieces per day. In April, we introduced a new menu item: crispy chicken dipped in sauce, available in five sauce variations. The introduction of this new menu successfully increased our sales by 20% compared to the previous period.
 
 # Documentation
-<img src ="assets/geprek_masda.png" />
+<img src ="assets/geprekmasda.png" />
