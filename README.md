@@ -1,7 +1,7 @@
 # 🍗 Ayam Geprek Masda - Food Business
 #### Year Accomplished : 2023 – Present
 #### Role/Position : Owner Business
-#### Publication Link : [View Instagram Account](https://www.instagram.com/geprek.masda/)|[View Design Feed](https://www.figma.com/design/ESOh5Ezo914vj0LCVR9MYB/Design-Feed-Ig-Geprek?node-id=0-1&t=oug7JCf7JuwG7yIq-1)
+#### Publication Link : [View Instagram Account](https://www.instagram.com/geprek.masda/) | [View Design Feed](https://www.figma.com/design/ESOh5Ezo914vj0LCVR9MYB/Design-Feed-Ig-Geprek?node-id=0-1&t=oug7JCf7JuwG7yIq-1)
 > Other Instagram feed designs can be seen in the assets folder
 #### Project Description
 I developed a food business specializing in selling ayam geprek (smashed crispy chicken). I built this business together with my brother, where I was responsible for pricing strategies and social media promotions, particularly through Instagram, while my brother was in charge of food preparation and kitchen operations.
